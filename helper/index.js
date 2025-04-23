@@ -41,3 +41,9 @@ function autofill(url) {
   address.value = url;
   form.requestSubmit(); // Automatically submit the form
 }
+
+document.addEventListener('keydown', function(event) {
+  if (event.key === '`') {
+    window.location.href='https://google.com'
+  }
+});
