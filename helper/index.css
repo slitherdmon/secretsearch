@@ -1,7 +1,7 @@
 /* Custom CSS for black theme */
 body {
-  background-color:#707070d0;
-  color: #000000;
+  background-image: url(../jackson.png);
+  color: #ffffff;
   margin: 0;
   padding: 0;
 }
