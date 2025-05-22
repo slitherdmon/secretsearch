@@ -1,8 +1,6 @@
 self.__uv$config = {
     prefix: '/helper/math/',
-    bare:'https://celestial-bare.pages.dev/',
-    encodeUrl: Ultraviolet.codec.xor.encode,
-    decodeUrl: Ultraviolet.codec.xor.decode,
+    bare:'https://32867gd198764dg23vd23198746v4d69182736dvussis7.9882136.xyz/',
     handler: '/helper/uv/uv.handler.js',
     bundle: '/helper/uv/uv.bundle.js',
     config: '/helper/uv/uv.config.js',
