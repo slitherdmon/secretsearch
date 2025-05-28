@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/helper/math/',
-    bare: 'https://bare.benrogo.net',
+    bare: 'https://0ziuro-6969.csb.app/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/helper/uv/uv.handler.js',
