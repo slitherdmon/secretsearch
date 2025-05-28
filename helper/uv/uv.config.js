@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/helper/math/',
-    bare: 'https://wgqefhkjwqeqf.homeworkhelper.space/',
+    bare: 'https://nebula-x.above.gay/bare',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/helper/uv/uv.handler.js',
