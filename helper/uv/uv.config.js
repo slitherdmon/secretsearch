@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/helper/math/',
-    barehttps://dd-neon-chi.vercel.app/bare/',
+    bare: 'https://dd-neon-chi.vercel.app/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/helper/uv/uv.handler.js',
